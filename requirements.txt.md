@@ -1,11 +1,19 @@
 pandas==2.2.3
+
 numpy==1.26.4
+
 matplotlib==3.9.2
+
 seaborn==0.13.2
+
 jupyter==1.1.1
+
 scikit-learn==1.5.2
+
 plotly==5.24.1
+
 openpyxl==3.1.5
+
 requests==2.32.3
 
 Explanation of each library:
